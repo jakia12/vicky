@@ -6,7 +6,7 @@
   .elementor-element.elementor-element-2cb267aa
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54 .elementor-element.elementor-element-2cb267aa,
 .elementor-54
@@ -232,7 +232,7 @@
   .elementor-element.elementor-element-6600586a
   .elementor-nav-menu--dropdown
   a.highlighted {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-6600586a
@@ -277,8 +277,11 @@
   .elementor-element.elementor-element-3f7366c
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  /* background-color: #df0434 ; */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  /* background-color: #ffd63e ; */
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-3f7366c,
 .elementor-54
@@ -524,7 +527,10 @@
   > .elementor-motion-effects-layer {
   /* background-color: var(--e-global-color-secondary); */
   /* background-color: lightblue; */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
   /* background-image: url("./images/back.png"); */
   background-position: center center;
   background-repeat: no-repeat;
@@ -620,7 +626,7 @@
 .elementor-54
   .elementor-element.elementor-element-4278376c
   .elementor-heading-title {
-  color: #df0434 ;
+  color: #ffd63e ;
   font-family: "Planet Comic", Sans-serif;
   font-size: 124px;
   font-weight: 100;
@@ -714,7 +720,7 @@
 }
 .elementor-54 .elementor-element.elementor-element-313d2aa2 {
   text-align: left;
-  color: #df0434 ;
+  color: #ffd63e ;
   font-family: "Space Grotesk", Sans-serif;
   font-size: 25px;
   font-weight: 900;
@@ -763,7 +769,7 @@
   font-weight: 700;
   fill: #4e015e;
   color: #4e015e;
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
   border-color: var(--e-global-color-d26f713);
@@ -830,7 +836,10 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-color: var(--e-global-color-secondary); */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-56605b3e,
 .elementor-54
@@ -974,7 +983,7 @@
 .elementor-54
   .elementor-element.elementor-element-cfeab3c
   .elementor-social-icon:hover {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-cfeab3c
@@ -1091,7 +1100,7 @@
 .elementor-54
   .elementor-element.elementor-element-dd9f74e
   .elementor-social-icon:hover {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-dd9f74e
@@ -1188,7 +1197,7 @@
   background-color: #4e015e;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   border-radius: 455px 0px 0px 0455px;
   padding: 16px 15px 12px 15px;
 }
@@ -1215,10 +1224,10 @@
   font-weight: 600;
   fill: #ffffff;
   color: #ffffff;
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
   border-style: solid;
   border-width: 2px 02px 2px 0px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   border-radius: 0px 455px 455px 0px;
   padding: 14px 15px 11px 15px;
 }
@@ -1228,7 +1237,7 @@
 .elementor-54
   .elementor-element.elementor-element-ae06c0f
   .elementor-button:focus {
-  color: #df0434 ;
+  color: #ffd63e ;
   background-color: #4e015e;
 }
 .elementor-54
@@ -1239,7 +1248,7 @@
   .elementor-element.elementor-element-ae06c0f
   .elementor-button:focus
   svg {
-  fill: #df0434 ;
+  fill: #ffd63e ;
 }
 .elementor-54 .elementor-element.elementor-element-f08872b {
   margin-top: 10px;
@@ -1260,7 +1269,7 @@
   background-color: #4e015e;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   border-radius: 455px 0px 0px 0455px;
   padding: 16px 15px 12px 15px;
 }
@@ -1287,10 +1296,10 @@
   font-weight: 600;
   fill: #ffffff;
   color: #ffffff;
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
   border-style: solid;
   border-width: 2px 02px 2px 0px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   border-radius: 0px 455px 455px 0px;
   padding: 16px 15px 11px 15px;
 }
@@ -1300,7 +1309,7 @@
 .elementor-54
   .elementor-element.elementor-element-47ae73d
   .elementor-button:focus {
-  color: #df0434 ;
+  color: #ffd63e ;
   background-color: #4e015e;
 }
 .elementor-54
@@ -1311,7 +1320,7 @@
   .elementor-element.elementor-element-47ae73d
   .elementor-button:focus
   svg {
-  fill: #df0434 ;
+  fill: #ffd63e ;
 }
 .elementor-54 .elementor-element.elementor-element-24dd37b4 {
   margin-top: 0px;
@@ -1335,7 +1344,7 @@
   > .elementor-element-populated {
   border-style: solid;
   border-width: 6px 6px 6px 6px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 9px 30px 09px 30px;
   --e-column-margin-right: 30px;
@@ -1378,7 +1387,7 @@
 .elementor-54
   .elementor-element.elementor-element-5d7e3b7
   .elementor-counter-number-wrapper {
-  color: #df0434 ;
+  color: #ffd63e ;
   font-family: "Planet Comic", Sans-serif;
   font-size: 40px;
   font-weight: 100;
@@ -1399,7 +1408,7 @@
 .elementor-54
   .elementor-element.elementor-element-55fd95e3
   .elementor-counter-number-wrapper {
-  color: #df0434 ;
+  color: #ffd63e ;
   font-family: "Planet Comic", Sans-serif;
   font-size: 40px;
   font-weight: 100;
@@ -1434,7 +1443,7 @@
   > .elementor-element-populated {
   border-style: solid;
   border-width: 6px 6px 6px 6px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 9px 30px 09px 30px;
   --e-column-margin-right: 30px;
@@ -1476,7 +1485,7 @@
 }
 .elementor-54 .elementor-element.elementor-element-4702df2d {
   text-align: center;
-  color: #df0434 ;
+  color: #ffd63e ;
   font-family: "Planet Comic", Sans-serif;
   font-size: 30px;
   font-weight: 100;
@@ -1507,7 +1516,7 @@
 }
 .elementor-54 .elementor-element.elementor-element-34b47e4f {
   text-align: center;
-  color: #df0434 ;
+  color: #ffd63e ;
   font-family: "Planet Comic", Sans-serif;
   font-size: 30px;
   font-weight: 100;
@@ -1563,14 +1572,14 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-5d7893d4
   > .elementor-element-populated {
   border-style: solid;
   border-width: 3px 3px 3px 3px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 14px 14px 14px 14px;
   --e-column-margin-right: 14px;
@@ -1647,14 +1656,14 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-701aa8cd
   > .elementor-element-populated {
   border-style: solid;
   border-width: 3px 3px 3px 3px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 14px 14px 14px 14px;
   --e-column-margin-right: 14px;
@@ -1731,14 +1740,14 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-658c80ad
   > .elementor-element-populated {
   border-style: solid;
   border-width: 3px 3px 3px 3px;
-  border-color: #df0434 ;
+  border-color: #ffd63e ;
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   margin: 14px 14px 14px 14px;
   --e-column-margin-right: 14px;
@@ -1807,7 +1816,10 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-color: var(--e-global-color-secondary); */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-6c70ab67,
 .elementor-54
@@ -1945,8 +1957,11 @@
   .elementor-element.elementor-element-3fffb16
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  /* background-color: #df0434 ; */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  /* background-color: #ffd63e ; */
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-3fffb16 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -2337,7 +2352,10 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-color: var(--e-global-color-secondary); */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-cc4e727,
 .elementor-54
@@ -2397,7 +2415,10 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-color: var(--e-global-color-secondary); */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-4fbe0ba0,
 .elementor-54
@@ -2439,7 +2460,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-63cbfc6a
@@ -2510,7 +2531,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-717d4808
@@ -2581,7 +2602,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-6cdcdf93
@@ -2656,7 +2677,10 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-color: var(--e-global-color-secondary); */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-b96c8cf,
 .elementor-54
@@ -2717,7 +2741,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-aeb5aac
@@ -2809,7 +2833,7 @@
 .elementor-54
   .elementor-element.elementor-element-a2dace1
   .elementor-social-icon:hover {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-a2dace1
@@ -2842,7 +2866,10 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-color: var(--e-global-color-secondary); */
-  background: linear-gradient(to right, #9a0000, #ac6000, #ada100, #015716, #0034ac, #51005c);
+  background: linear-gradient(
+        to right,
+        #ff0170, #cf005c
+      );
 }
 .elementor-54 .elementor-element.elementor-element-53ddd30b,
 .elementor-54
@@ -2906,7 +2933,7 @@
   .elementor-element.elementor-element-608b3402
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54 .elementor-element.elementor-element-608b3402 {
   border-style: solid;
@@ -3033,7 +3060,7 @@
   font-weight: 500;
   fill: #4e015e;
   color: #4e015e;
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
   border-color: #4e015e;
@@ -3070,7 +3097,7 @@
   font-weight: 500;
   fill: #4e015e;
   color: #4e015e;
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
   border-color: #4e015e;
@@ -3122,7 +3149,7 @@
   font-weight: 500;
   fill: #4e015e;
   color: #4e015e;
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
   border-color: #4e015e;
@@ -3159,7 +3186,7 @@
   font-weight: 500;
   fill: #4e015e;
   color: #4e015e;
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
   border-color: #4e015e;
@@ -3225,7 +3252,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #df0434 ;
+  background-color: #ffd63e ;
 }
 .elementor-54
   .elementor-element.elementor-element-5312962b
@@ -4052,7 +4079,7 @@ body.elementor-page-54 {
     .elementor-element.elementor-element-196acd14
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-image: url("./images/back.png");
+    background-image: url("./images/hi.webp");
     background-position: 32px 461px;
     background-size: 330px auto;
   }
